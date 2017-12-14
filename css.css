@@ -83,9 +83,8 @@ li.dropdown {
 }
 
 text {
-	color: #ffffff
-    width: 300px;
-	height: 500px;
-	position: center;
-    padding: 25px #000000;
+	background-color: #000000;
+	margin: 25px;
+	font-color: #ffffff;
+	
 }
