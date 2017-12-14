@@ -6,11 +6,12 @@ height: 100%
 
 .bg { 
     background-image: url("space.jpg");
-    height: 110%; 
-	width: 110%; 
+    height: 100%; 
+	width: 100%; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+	background-attachment: fixed;
 }
 
 h1 {
