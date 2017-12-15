@@ -1,5 +1,5 @@
 .bg { 
-    background-image: url("space.jpg");
+    background-image: url("space2.jpg");
     background-position: center;
     background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -82,10 +82,3 @@ li.dropdown {
     display: block;
 }
 
-text {
-	background-color: #000000;
-	margin: 25px;
-	height: 100%
-	width: 50%;
-	
-}
